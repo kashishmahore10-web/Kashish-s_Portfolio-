@@ -1,0 +1,25 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff7fb"/>
+      <stop offset="100%" stop-color="#ffeef6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="70" y="60" width="1060" height="510" rx="28" fill="#ffffff" stroke="#f3cddd" stroke-width="2"/>
+  <rect x="70" y="60" width="1060" height="150" rx="28" fill="#c2185b"/>
+  <rect x="70" y="170" width="1060" height="40" fill="#c2185b"/>
+  <circle cx="600" cy="118" r="30" fill="#ffffff"/>
+  <rect x="592" y="100" width="16" height="36" rx="3" fill="#c2185b"/>
+  <rect x="582" y="110" width="36" height="16" rx="3" fill="#c2185b"/>
+  <text x="600" y="186" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff">Cancer Awareness &amp; Support</text>
+  <text x="140" y="290" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#8b1d4d">Inspirational Quote</text>
+  <rect x="140" y="320" width="920" height="70" rx="16" fill="#fff5fa" stroke="#f1c9dc"/>
+  <text x="180" y="365" font-family="Segoe UI, Arial, sans-serif" font-size="26" fill="#6b2845">Hope, strength, and support can make a difference.</text>
+  <text x="140" y="455" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#8b1d4d">Contact &amp; Resources</text>
+  <rect x="140" y="485" width="260" height="44" rx="12" fill="#ffe3ef"/>
+  <rect x="420" y="485" width="260" height="44" rx="12" fill="#ffe3ef"/>
+  <rect x="700" y="485" width="180" height="44" rx="12" fill="#c2185b"/>
+  <text x="790" y="515" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#ffffff">Send</text>
+  <text x="600" y="602" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="#8b5a70">React + Vite + Tailwind CSS · Awareness page</text>
+</svg>
